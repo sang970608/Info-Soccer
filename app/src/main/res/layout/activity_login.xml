@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:gravity="center"
-        android:layout_weight="2"
+        android:layout_weight="1"
         android:orientation="vertical">
     <TextView
         android:layout_width="wrap_content"
@@ -168,6 +168,20 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="카카오로 계속하기" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/facebookLL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="@drawable/login_input"
+            android:layout_marginBottom="10dp"
+            android:gravity="center">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="페이스북으로 계속하기" />
         </LinearLayout>
 
         <LinearLayout

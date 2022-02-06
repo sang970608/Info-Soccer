@@ -1,8 +1,8 @@
-package com.example.myapplication.activity
+package com.si.infosoccer.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.myapplication.R
+import com.si.infosoccer.R
 import kotlinx.android.synthetic.main.activity_login.*
 
 class LoginActivity : AppCompatActivity() {

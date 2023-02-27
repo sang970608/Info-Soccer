@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "427195828144",
-    "project_id": "infosoccer-b4d78",
-    "storage_bucket": "infosoccer-b4d78.appspot.com"
+    "project_number": "75896055558",
+    "project_id": "infosoccer-15cde",
+    "storage_bucket": "infosoccer-15cde.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:427195828144:android:5a54312f0ac2b97e80f875",
+        "mobilesdk_app_id": "1:75896055558:android:a15b6a7843ea80a773a087",
         "android_client_info": {
           "package_name": "com.si.infosoccer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "427195828144-fj7rld8s3qq7tej6g0nfg601fb6m02d5.apps.googleusercontent.com",
+          "client_id": "75896055558-ngl7g9pk61tm0s3flsa2t39l5nrjuo11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.si.infosoccer",
+            "certificate_hash": "545d4715b28131d0ecebe74c7d1e918328b23f4b"
+          }
+        },
+        {
+          "client_id": "75896055558-h7m9tnbojgj5fr6lsm48k3ulodt38j4o.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA8N5hDlptqXr52H6YatqqEVHR1cWd9vvs"
+          "current_key": "AIzaSyC8NVa2BDKYp5Fk8h2uMtgTUqfz0cztY0Y"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "427195828144-fj7rld8s3qq7tej6g0nfg601fb6m02d5.apps.googleusercontent.com",
+              "client_id": "75896055558-h7m9tnbojgj5fr6lsm48k3ulodt38j4o.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
